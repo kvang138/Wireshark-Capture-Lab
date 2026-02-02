@@ -1,2 +1,4 @@
-# Wireshark-Capture-Lab
-Lab for using Wireshark to capture network packets
+# 🛜Wireshark Network Packet Capture and Protocol Analysis Lab
+Lab for using Wireshark to capture and analyze network packets and protocols.
+
+
