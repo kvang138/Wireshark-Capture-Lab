@@ -35,7 +35,7 @@ In this project, I used Wireshark to capture and analyze network packets and pro
   1. The router was inquiring who has one of two logical IP addresses as it attempted to map logical IP addresses to physical MAC addresses.
   2. The local computer was inquiring about the location of the router.
 
-## Hands-on experience in practical network diagnostics and security inspection
+## 🧠 Hands-on experience in practical network diagnostics and security inspection
   - Captured live network traffic and saved PCAP files for in-depth, repeatable analysis.
   - Applying Wireshark filters (display/capture) to efficiently narrow millions of packets to relevant conversations and anomalies.
   - Examined various protocols and traffic flows (HTTP/S, DNS, TCP retransmissions, TLS handshakes, etc.) to uncover root causes of issues.
