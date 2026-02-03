@@ -3,7 +3,7 @@ Lab for using Wireshark to capture and analyze network packets and protocols.
 
 ---
 
-## Overview
+## 📝Overview
 In this project, I used Wireshark to capture and analyze network packets and protocols.
   ### Traffic Types/Protocols Captured
   - ICMPv6 — Captured via `ping google.com`. 
@@ -14,7 +14,7 @@ In this project, I used Wireshark to capture and analyze network packets and pro
 
 ---
 
-## Screenshots
+## 📸Screenshots
 ### 1. Captured Echo (Ping) requests and replies to and from google.com via ICMPv6.
 ![ICMPv6 Ping]()
 ---
@@ -35,3 +35,9 @@ In this project, I used Wireshark to capture and analyze network packets and pro
   1. The router was inquiring who has one of two logical IP addresses as it attempted to map logical IP addresses to physical MAC addresses.
   2. The local computer was inquiring about the location of the router.
 
+## Hands-on experience in practical network diagnostics and security inspection
+  - Captured live network traffic and saved PCAP files for in-depth, repeatable analysis.
+  - Applying Wireshark filters (display/capture) to efficiently narrow millions of packets to relevant conversations and anomalies.
+  - Examined various protocols and traffic flows (HTTP/S, DNS, TCP retransmissions, TLS handshakes, etc.) to uncover root causes of issues.
+  - Conducted real-world troubleshooting of web applications, network performance, and potential threats through packet-level inspection.
+  - Produced documentation with annotated packet captures to clearly communicate technical findings.
