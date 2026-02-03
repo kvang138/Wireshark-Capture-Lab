@@ -5,7 +5,7 @@ Lab for using Wireshark to capture and analyze network packets and protocols.
 
 ## 📝Overview
 In this project, I used Wireshark to capture and analyze network packets and protocols.
-  ### Traffic Types/Protocols Captured
+  ### 🛜📦 Traffic Types/Protocols Captured
   - ICMPv6 — Captured via `ping google.com`. 
   - DNS — Captured via `nslookup openai.com.`
   - TCP Three-Way Handshake — Captured via a local connection with the router.
