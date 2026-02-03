@@ -16,7 +16,7 @@ In this project, I used Wireshark to capture and analyze network packets and pro
 
 ## Screenshots
 ### 1. Captured Echo (Ping) requests and replies to and from google.com via ICMPv6.
-
+![ICMPv6 Ping]()
 ---
 
 ### 2. Captured DNS requests and replies via nslookup openai.com on port 53.
